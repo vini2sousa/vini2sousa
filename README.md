@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente busco meu primeiro estágio!
 
-<div>
+<div style="display: inline_block"><br>
 <a href="https://github.com/vini2sousa/github-readme-stats">
   <img width=51% src="https://github-readme-stats.vercel.app/api?username=vini2sousa&show_icons=true&theme=dark#gh-dark-mode-only"" />
 </a>
