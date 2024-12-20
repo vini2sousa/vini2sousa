@@ -1,6 +1,6 @@
-## Olá! Sou o Vinicius 👋
+## Olá!  👋
 
-- 🔭 Atualmente busco meu primeiro estágio!
+
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/vini2sousa/github-readme-stats">
